@@ -59,7 +59,7 @@ The goal of this project is to demonstrate:
 1. Download the project or clone via Git:
 
 ```sh
-2. git clone https://github.com/your-username/school-website.git
+2. git clone https://github.com/Srabani0/school-website.git
 
 3. Open the folder
 
